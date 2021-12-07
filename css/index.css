@@ -17,6 +17,14 @@ footer a {text-decoration: none;
            height: 80%;
            padding-top: 15px;}
 
+h1 {font-family: "Bebas Neue", sans-serif;
+    text-align: center;
+    font-size: 100px;
+    font-weight: 800;
+    letter-spacing: 1.5px;
+    color: #ff4654;
+    margin: 1% 0%;}
+
 h3 {font-family: "Bebas Neue", sans-serif;
     font-weight: 800;
     font-size: 30px;
@@ -62,7 +70,9 @@ header img {width: 150px;}
 
 main img {height: 950px;}
 
-
+#UnderConstruction {margin: 0% 30%;
+                    height: 50%;
+                    width: 40%;}
 
 
 #mobile_menu {display: none;}
@@ -191,7 +201,7 @@ img {width: 100%;}
     
 #mobile_menu {display: block;}
     
-#mobile_menu a {text-decoration: none}
+#mobile_menu a {text-decoration: none;}
 
 #mobile_menu ul {list-style: none;
                  position: relative;}
@@ -284,6 +294,15 @@ img {width: 100%;}
        margin-top: 100%}
 
 .card img {height: 300px;}
+    
+h1 {font-family: "Bebas Neue", sans-serif;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 800;
+    letter-spacing: 1.5px;
+    color: #ff4654;
+    margin: 10% 0%;}
+
 
 }
 
